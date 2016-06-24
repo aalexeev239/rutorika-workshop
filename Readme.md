@@ -11,7 +11,7 @@ https://markgoodyear.com/2015/06/using-es6-with-gulp/
 метод pipe https://nodejs.org/api/stream.html#stream_readable_pipe_destination_options
 Minimatch https://github.com/isaacs/minimatch
 
-## Больше стримов для Бога стримов
+## streams
 
 https://github.com/substack/stream-handbook
 https://github.com/substack/stream-adventure
@@ -20,24 +20,10 @@ https://github.com/workshopper/learnyounode
 Nodeschool http://nodeschool.io/#workshopper-list
 
 
-PostCSS
+# PostCSS
 
-- Че такое, как работает
-- На самом деле вы уже используете postCSS
-- CssNext
-- PreCSS
-- postcss-assets
-- cssnano
-- stylelint
+cssnext http://cssnext.io/
+postcss-assets https://github.com/assetsjs/postcss-assets
+cssnano http://cssnano.co/
 
-Sublime
-
-- Проекты?
-- настройки
-- сниппеты
-- мультикурсоры, табы, клавиатурные сокращ
-
-Куки
-https://ru.wikipedia.org/wiki/HTTP_cookie
-https://learn.javascript.ru/cookie
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
+stylelint http://stylelint.io/

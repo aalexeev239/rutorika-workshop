@@ -17,8 +17,6 @@
   },
   "homepage": "https://github.com/spb-frontend/web#readme",
   "devDependencies": {
-    "babel-core": "^6.10.4",
-    "babel-preset-es2015": "^6.9.0",
     "del": "^2.2.1",
     "gulp": "^3.9.1",
     "gulp-if": "^2.0.1",
