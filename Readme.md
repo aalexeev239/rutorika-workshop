@@ -28,3 +28,7 @@ postcss-assets https://github.com/assetsjs/postcss-assets
 cssnano http://cssnano.co/
 
 stylelint http://stylelint.io/
+
+## Боевой пример
+
+https://github.com/spb-frontend/web
